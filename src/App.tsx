@@ -1,7 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+/**
+ * Base component
+ * @return {null}
+ */
 function App() {
   return (
     <div className="App">
